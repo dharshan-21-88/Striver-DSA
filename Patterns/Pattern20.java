@@ -1,7 +1,7 @@
 //https://takeuforward.org/practice/dsa/pattern-20
 package Patterns;
 
-public class Pattern {
+public class Pattern20 {
     public static void main(String[] args) {
         pattern20(5);
     }
